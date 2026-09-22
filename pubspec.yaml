@@ -28,6 +28,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  url_launcher: ^6.2.5
   flutter:
     sdk: flutter
 
@@ -37,6 +38,7 @@ dependencies:
   webview_flutter: ^4.14.1
 
 dev_dependencies:
+  url_launcher: ^6.2.5
   flutter_test:
     sdk: flutter
 
