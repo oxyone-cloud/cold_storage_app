@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "gestion-de-stockage-cold": {
+      "hosting": {
+        "primary": [
+          "gestion-de-stockage-cold"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
