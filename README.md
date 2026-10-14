@@ -45,8 +45,6 @@ Ce module permet le suivi en temps réel des paramètres opérationnels (tempér
 
 1. **Cloner le dépôt :**
    ```bash
-   <a href="https://www.codehype.ai/product/oxyone?utm_source=codehype_badge" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.codehype.ai/badges/oxyone.svg?variant=find-us&v=20" alt="Featured on CodeHype" width="180" height="65" loading="lazy" decoding="async" style="display:inline-block;border:0;width:100%;max-width:180px;height:auto;max-height:65px;" />
-</a>
+
    git clone [https://github.com/oxyone-cloud/cold_storage_app.git](https://github.com/oxyone-cloud/cold_storage_app.git)
    cd cold_storage_app
